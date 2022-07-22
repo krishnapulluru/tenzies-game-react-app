@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background:#0B2434;
+    padding:20px;
+}
+
+main{
+    background:white;
+    border-radius: 5px;
+    height:500px;
+    max-width:700px;
+}
